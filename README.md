@@ -2,6 +2,12 @@
 
 The repository provides metadata only
 
+Historical versions of this repository are afvailable at:
+
+https://github.com/blawar/titledb_02112024
+
+https://github.com/blawar/titledb_12032024
+
 ### Files
 `{region}.{language}.json` - Mapped by nsuId
 
