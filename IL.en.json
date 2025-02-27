@@ -1,4 +1,39 @@
 {
+    "70010000004515": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f43ebd5cdac98ed79b9e15c399b87e2c0d354757906f90eb3bd02aa01edc01e8.jpg",
+        "category": [
+            "Strategy",
+            "RPG"
+        ],
+        "description": "Enjoy traditional Pok\u00e9mon battles using familiar mechanics such as Pok\u00e9mon Types, abilities, and moves, enabling rich and varied battle strategies that Trainers know and love. ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Pok\u00e9mon Champions is coming to Nintendo Switch!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Pok\u00e9mon Champions",
+        "nsuId": 70010000004515,
+        "numberOfPlayers": null,
+        "publisher": "Nintendo",
+        "rating": 7,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5c84d14eaf48a16b22003b2bca6ec076c80644298caf5a0a0638879aebe7ac9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ee92f5614936eda5711e819e7610181ca5800403359c46d916d002cc369de3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aef67cb24f9e320aab514a847ef575454082a1f019ad3d139bb8937712501fa2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e692b61d71d7af3d4850a1cc10784220f91511b3dae850f2df2aa74a36204444.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70050000036095": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cb277b834be1837f0abdf31658e7066ea0b1841c2e9af6dc89dec57c10227a9.jpg",
         "category": null,
