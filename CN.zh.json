@@ -3101,6 +3101,38 @@
         "size": 7683964928,
         "version": null
     },
+    "70050000055988": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50da0a2b75a200e7780ad967f33aef0ac639b6bf58f08d7d1925bc1964599a36.jpg",
+        "category": null,
+        "description": "\u8eab\u4e3a\u52c7\u6562\u7684\u65b0\u82f1\u96c4\u55be\uff0c\u4f60\u5fc5\u987b\u534f\u52a9\u5973\u5a32\u5a18\u5a18\u4fee\u590d\u5929\u5730\u4e4b\u95f4\u7684\u5e73\u8861\u3002\u5728\u8fd9\u573a\u62ef\u6551\u4eba\u95f4\u7684\u5192\u9669\u4e2d\uff0c\u4f60\u5c06\u9047\u5230\u66f4\u591a\u534e\u590f\u4f20\u8bf4\u4e2d\u6709\u540d\u7684\u795e\u4ed9\u9b3c\u602a\uff0c\u89e3\u5f00\u795e\u79d8\u72ec\u7279\u7684\u6311\u6218\u8c1c\u9898\u3002",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "\u6e21\u795e\u7eaa \u82ac\u5c3c\u65af\u5d1b\u8d77\uff1a\u8865\u5929",
+        "nsuId": 70050000055988,
+        "numberOfPlayers": null,
+        "publisher": "\u78a7\u6c49",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20250502,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5dab06d1652e679bb3e999bab3a1bbe61a2e49a0495e8c120be65316739dd520.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd10aa6e1ab628078ba7efb8d0fcc66d8c624d03da61c1742a2208d90e0fa92a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49486978feaea75afae6cd062ee72e9ac41507f0970619ab90464398f17a949a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ba69864aee53de795147b2073bf7b661f67c284932efdc32ac9b2011087d0c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be7f1f5c6f114ed51d64f8d92da1bf503c437b9fb0f36e8bfaa3f2814836bf80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7270d85d652dfc2263eff6bc79ec0d782e91c16716632059683d637e0c81766a.jpg"
+        ],
+        "size": 5686427648,
+        "version": null
+    },
     "70050000056542": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/489d452fd52897b458a469209791c32b52f3fff1faa66363063599b52a0b410d.jpg",
         "category": null,
